@@ -102,7 +102,6 @@ public class Asm03 {
             return;
         }
         customer.displayInformation();
-        System.out.println("------------------------------------");
     }
 
     /**

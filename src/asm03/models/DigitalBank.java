@@ -17,7 +17,7 @@ public class DigitalBank extends Bank {
      * マイナンバー番号から顧客情報を取得する。
      * 内部的には Bank クラスの findCustomerById(...) を利用します。
      *
-     * @param customerId mynumber番号（12桁の数字を想定）
+     * @param customerId 個人番号（12桁の数字を想定）
      * @return 対応する {@link Customer} が存在すればそのインスタンス、存在しなければ null
      */
     public Customer getCustomerById(String customerId) {
