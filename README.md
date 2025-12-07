@@ -89,7 +89,7 @@ src/
 
 ## 👨‍💻 作者情報
 
-- 氏名（Tên）：**NGUYEN HUU TINH（グエン フウ ティン）**
+- 氏名：**NGUYEN HUU TINH（グエン フウ ティン）**
 - Email：**huutinh2701@gmail.com**
 - 学校：**ECCコンピューター専門学校**
     - マルチメディア学科システムエンジニアコース
